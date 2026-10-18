@@ -2,7 +2,7 @@
 
 Factory Droid runs **at runtime inside the product**, not as a developer tool. Uploads and capture failures trigger jobs. Output reaches users only after our own checks pass.
 
-The short overview lives in the [root README](../README.md). Sandbox boundary: [Where Daytona works](where-daytona-works.md). Eval contract: [Try it with Droid](try-it-with-droid.md).
+Overview: [root README](../README.md) and [Backend architecture](backend-architecture.md). How the extension reports a broken page and hot-loads the fix: [Extension architecture](extension-architecture.md#self-healing-selectors-the-mechanic-loop). Sandbox boundary: [Where Daytona works](where-daytona-works.md). Eval contract: [Try it with Droid](try-it-with-droid.md).
 
 ## How jobs start
 
