@@ -2,7 +2,7 @@
 
 Chalk is the coaching brain: TypeSafe Jev (System One) classifies whether a draft should stay, switch models, or hop sites. The Model Gateway holds provider keys and budgets. Offline evaluations use `chalkcompute`.
 
-Short overview: [root README](../README.md). Extension contracts: [coaching-integration.md](coaching-integration.md). Account setup: [chalk-setup.md](chalk-setup.md). Day-to-day commands: [chalk-runbook.md](chalk-runbook.md). CLI notes: [chalk-cli-reference.md](chalk-cli-reference.md).
+Overview: [root README](../README.md) and [Backend architecture](backend-architecture.md). Cross-provider coach: [General coach](general-coach.md). Extension side: [Extension architecture](extension-architecture.md). Extension contracts: [coaching-integration.md](coaching-integration.md). Account setup: [chalk-setup.md](chalk-setup.md). Day-to-day commands: [chalk-runbook.md](chalk-runbook.md). CLI notes: [chalk-cli-reference.md](chalk-cli-reference.md).
 
 ## In the product
 

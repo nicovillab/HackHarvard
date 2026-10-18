@@ -2,7 +2,7 @@
 
 Ephemeral Linux sandboxes hold private chat exports and agent-written code. Only checked results leave. API keys never go into the sandbox.
 
-The short overview lives in the [root README](../README.md). Droid jobs: [Where Droid works](where-droid-works.md).
+Overview: [root README](../README.md) and [Backend architecture](backend-architecture.md). Droid jobs: [Where Droid works](where-droid-works.md).
 
 ## Why
 
